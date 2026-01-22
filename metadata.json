@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BioSense AI - Food Safety Detection",
+  "description": "A dual-mode fluorescence/colorimetric detection platform for foodborne pathogens using deep learning-enhanced analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
